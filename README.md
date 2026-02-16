@@ -92,3 +92,32 @@ Very High: ~31%
 
 Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, SciPy
 
+
+📈 Visual Evaluation
+
+
+
+
+
+
+
+
+
+💼 Business Impact
+
+
+
+Enabled risk-based borrower segmentation using monotonic PD ranking
+
+
+
+Demonstrated application-level PD modelling with leakage-safe validation
+
+
+
+Produced interpretable risk bands for potential credit decisioning
+
+
+
+Validated discriminatory power using ROC-AUC, KS, and Gini metrics
+
