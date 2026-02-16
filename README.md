@@ -10,6 +10,24 @@ End-to-end Probability of Default (PD) modelling pipeline built on retail unsecu
 
 
 
+📂 Dataset
+
+
+
+This project uses the publicly available LendingClub loan dataset.
+
+
+
+Due to size constraints, the dataset is not included in this repository.
+
+
+
+You can download it from:
+
+https://www.lendingclub.com/info/download-data.action
+
+
+
 📊 Model Performance
 
 
